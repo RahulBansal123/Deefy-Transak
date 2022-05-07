@@ -1,5 +1,9 @@
 ## Deefy
 
+
+https://user-images.githubusercontent.com/64414414/167269196-b4f9570d-e652-48e7-b2c3-ef6b4cb9b035.mov
+
+
 ### Description
 
 Deefy is a one stop multi-chain analytics dashboard that allows anyone to visualise, track and analyse data.
@@ -17,10 +21,11 @@ Deefy is a one stop multi-chain analytics dashboard that allows anyone to visual
 - Integration of Uniswap
 - Get current crypto related news
 - Login with Unstoppable domain
+- Buy cryptocurrency with Transak
 
-#### Website (Hosted on Fleek): [Deefy](https://noisy-recipe-4666.on.fleek.co/)
+#### Website (Hosted on Fleek): [Deefy](https://twilight-brook-4803.on.fleek.co/)
 
-### IPFS Hash: QmY2x8oWUDwreRVnJ6soLniErVhttmgRn7eBYCXUNaCPYg
+### IPFS Hash: QmNV6KuxLmzqq3HqMarMGSfzmvUM8dHrFw4DKRrk7but9N
 
 #### Running the app
 
